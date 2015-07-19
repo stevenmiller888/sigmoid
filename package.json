@@ -1,0 +1,17 @@
+{
+  "name": "sigmoid",
+  "description": "A JavaScript implementation of the sigmoid function",
+  "author": "Steven Miller",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenmiller888/sigmoid"
+  },
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^0.22.1",
+    "mocha": "2.x"
+  }
+}
