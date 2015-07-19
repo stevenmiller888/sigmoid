@@ -1,10 +1,10 @@
 
-# Sigmoid
+# sigmoid
 [![NPM version][npm-image]][npm-url]
 [![build status][circle-image]][circle-url]
 [![license][license-image]][license-url]
 
-a javascript implementation of the sigmoid function
+A JavaScript implementation of the sigmoid function
 
 ## Installation
 
